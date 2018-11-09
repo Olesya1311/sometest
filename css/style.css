@@ -1,3 +1,11 @@
-div{
-    background: red;
+body{
+    background-color: cadetblue
+}
+
+header .logo{
+
+}
+.content{
+    width: 1146px;
+    margin: auto
 }
